@@ -1,6 +1,10 @@
 # airbnb_data_analysis
 
-Blog published on medium, follow the link [here](https://hpjhc.medium.com/how-to-become-a-good-earner-in-airbnb-1e917a825db9)
+This is a project about airbnb data understanding, data preparation, data cleaning and data modeling
+
+## Results<a name="results"></a>
+
+The main findings of the code can be found at the post available [here](https://hpjhc.medium.com/how-to-become-a-good-earner-in-airbnb-1e917a825db9).
 
 ## Installation <a name="installation"></a>
 Python versions 3.* in anaconda env with neccesary libraries
@@ -22,9 +26,6 @@ For this project, I was interestested in using Seattle Airbnb data from 2016 to 
 3. How well can we predict an host price?
 4. What aspects correlate well to host earnings?
 
-## Results<a name="results"></a>
-
-The main findings of the code can be found at the post available [here](https://hpjhc.medium.com/how-to-become-a-good-earner-in-airbnb-1e917a825db9).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
