@@ -7,7 +7,7 @@ This is a project about airbnb data understanding, data preparation, data cleani
 The main findings of the code can be found at the post available [here](https://hpjhc.medium.com/how-to-become-a-good-earner-in-airbnb-1e917a825db9).
 
 ## Installation <a name="installation"></a>
-Python versions 3.* in anaconda env with neccesary libraries
+Python versions 3.* in anaconda env with neccesary libraries list below:
 
 - [NumPy](http://www.numpy.org/)
 - [SciPy](https://www.scipy.org/)
